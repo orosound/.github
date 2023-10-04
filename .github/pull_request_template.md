@@ -6,9 +6,9 @@
 
 # Issues
 
-*Add `fixes #XXX` to automatically close the issue this PR adresses when merging into the default branch*.
+*Add `- fixes #XX` to automatically close the issue this PR adresses when merging into the default branch*.
 
-*Simply add `#XXXX` to mention a linked issue.*.
+*Simply add `- #XX` to mention a linked issue.*.
 
 # Additional information
 
