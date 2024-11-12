@@ -9,6 +9,9 @@ changelog:
     - title: 🐛 Bugs
       labels:
         - 🐛 bug
+    - title: 🎛️ Tuning
+      labels:
+        - 🎛️ tuning
     - title: 📘 Documentation
       labels:
         - 📘 doc
